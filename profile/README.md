@@ -11,8 +11,13 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/88n77NODES/.github/main/docs/user-metrics.svg" width="48%" alt="88n77 Stats">
-  <img src="https://raw.githubusercontent.com/88n77NODES/.github/main/docs/org-metrics.svg"  width="48%" alt="88n77NODES Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=88n77&show_icons=true&theme=radical&hide_border=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=88n77NODES&show_icons=true&theme=radical&hide_border=true" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=88n77&layout=compact&theme=radical&hide_border=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=88n77NODES&layout=compact&theme=radical&hide_border=true" width="48%">
 </p>
 
 
