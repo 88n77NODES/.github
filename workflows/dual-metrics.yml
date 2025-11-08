@@ -2,14 +2,14 @@ name: Dual Metrics (user + org)
 
 on:
   schedule:
-    - cron: "15 3 * * *"   # оновлювати щодня
+    - cron: "15 3 * * *"
   workflow_dispatch: {}
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # USER CARD
+      # USER
       - uses: lowlighter/metrics@latest
         with:
           filename: docs/user-metrics.svg
@@ -23,7 +23,7 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_limit: 6
 
-      # ORG CARD (той самий стиль)
+      # ORG
       - uses: lowlighter/metrics@latest
         with:
           filename: docs/org-metrics.svg
