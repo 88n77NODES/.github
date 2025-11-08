@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/88n77/88n77/main/docs/user-metrics.svg" width="48%" alt="88n77 Metrics">
-  <img src="https://raw.githubusercontent.com/88n77/88n77/main/docs/org-metrics.svg"  width="48%" alt="88n77NODES Metrics">
+  <img src="https://raw.githubusercontent.com/88n77/88n77/main/docs/user-metrics.svg" width="48%" alt="88n77 Stats">
+  <img src="https://raw.githubusercontent.com/88n77/88n77/main/docs/org-metrics.svg" width="48%" alt="88n77NODES Stats">
 </p>
 
 
