@@ -15,12 +15,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=88n77&layout=compact&theme=radical&hide_border=true" width="48%" alt="88n77 Top Langs">
 </p>
 
-<!-- ORG (стабільні бейджі, 100% працюють для організацій) -->
 <p align="center">
-  <!-- cкільки публічних репів в організації -->
-  <a href="https://github.com/orgs/88n77NODES/repositories">
-    <img src="https://img.shields.io/github/orgs/88n77NODES/repo-count?label=88n77NODES%20Repos&style=for-the-badge" alt="Org Repos">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&color=F79533&center=true&vCenter=true&width=600&lines=88n77+NODES;Independent+Web3+Infrastructure;Automation+Lab;Decentralizing+the+Future" alt="88n77NODES Typing Animation">
 </p>
+
+
 
 <p align="center"><b>🧠 Building. Automating. Decentralizing.</b></p>
