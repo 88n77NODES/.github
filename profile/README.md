@@ -11,10 +11,31 @@
 </p>
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=88n77&limit=5&theme=radical" width="48%">
-  <img src="https://github-contributor-stats.vercel.app/api?username=88n77NODES&limit=5&theme=merko" width="48%">
+  <!-- К-сть публічних репозиторіїв в організації -->
+  <a href="https://github.com/orgs/88n77NODES/repositories">
+    <img src="https://img.shields.io/github/orgs/88n77NODES/repo-count?label=88n77NODES%20Repos&style=for-the-badge">
+  </a>
+  <!-- Зірки по ключових репах організації (додай ще, якщо хочеш) -->
+  <a href="https://github.com/88n77NODES/Elixir-V3">
+    <img src="https://img.shields.io/github/stars/88n77NODES/Elixir-V3?label=Elixir%20V3%20Stars&style=for-the-badge">
+  </a>
+  <a href="https://github.com/88n77NODES/NEXUS">
+    <img src="https://img.shields.io/github/stars/88n77NODES/NEXUS?label=NEXUS%20Stars&style=for-the-badge">
+  </a>
 </p>
 
+
+<p align="center">
+  <a href="https://github.com/88n77NODES">
+    <img src="https://img.shields.io/github/orgs/88n77NODES/repo-count?label=Repositories&color=orange&style=for-the-badge">
+  </a>
+  <a href="https://github.com/88n77NODES?tab=followers">
+    <img src="https://img.shields.io/github/followers/88n77NODES?label=Followers&color=purple&style=for-the-badge">
+  </a>
+  <a href="https://github.com/88n77NODES">
+    <img src="https://img.shields.io/github/stars/88n77NODES?label=Total%20Stars&color=red&style=for-the-badge">
+  </a>
+</p>
 
 
 <p align="center"><b>🧠 Building. Automating. Decentralizing.</b></p>
