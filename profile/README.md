@@ -11,9 +11,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/orgs/88n77NODES/repo-count?label=Repos&color=orange&style=for-the-badge">
-  <img src="https://img.shields.io/github/followers/88n77NODES?label=Followers&color=purple&style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/88n77NODES?label=Stars&color=red&style=for-the-badge">
+  <img src="https://github-readme-stats.vercel.app/api?username=88n77&show_icons=true&theme=radical&hide_border=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=88n77NODES&show_icons=true&theme=radical&hide_border=true" width="48%">
 </p>
 
 <p align="center">
