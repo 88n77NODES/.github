@@ -25,17 +25,5 @@
 </p>
 
 
-<p align="center">
-  <a href="https://github.com/88n77NODES">
-    <img src="https://img.shields.io/github/orgs/88n77NODES/repo-count?label=Repositories&color=orange&style=for-the-badge">
-  </a>
-  <a href="https://github.com/88n77NODES?tab=followers">
-    <img src="https://img.shields.io/github/followers/88n77NODES?label=Followers&color=purple&style=for-the-badge">
-  </a>
-  <a href="https://github.com/88n77NODES">
-    <img src="https://img.shields.io/github/stars/88n77NODES?label=Total%20Stars&color=red&style=for-the-badge">
-  </a>
-</p>
-
 
 <p align="center"><b>🧠 Building. Automating. Decentralizing.</b></p>
