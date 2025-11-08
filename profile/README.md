@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=88n77&layout=compact&theme=radical&hide_border=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=88n77NODES&layout=compact&theme=radical&hide_border=true" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=88n77NODES&layout=compact&theme=radical&hide_border=true" width="48%">
 </p>
 
