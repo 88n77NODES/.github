@@ -11,13 +11,16 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=88n77&show_icons=true&theme=radical&hide_border=true" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api?username=88n77NODES&show_icons=true&theme=radical&hide_border=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=88n77&show_icons=true&theme=radical&hide_border=true" width="48%" alt="88n77 Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=88n77&layout=compact&theme=radical&hide_border=true" width="48%" alt="88n77 Top Langs">
 </p>
 
+<!-- ORG (88n77NODES) — інша статистика, що працює для організацій -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=88n77&layout=compact&theme=radical&hide_border=true" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=88n77NODES&layout=compact&theme=radical&hide_border=true" width="48%">
+  <!-- кількість публічних репозиторіїв -->
+  <a href="https://github.com/orgs/88n77NODES/repositories">
+    <img src="https://img.shields.io/github/orgs/88n77NODES/repo-count?label=88n77NODES%20Repos&style=for-the-badge" alt="Org Repos">
+  </a>
 </p>
 
 
