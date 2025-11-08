@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/88n77/88n77/main/docs/combined-stars.json&style=for-the-badge" alt="Total Stars">
-  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/88n77/88n77/main/docs/combined-repos.json&style=for-the-badge" alt="Total Repos">
+  <img src="https://github-readme-stats.vercel.app/api?username=88n77&show_icons=true&theme=radical&hide_border=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=88n77&layout=compact&theme=radical&hide_border=true" width="48%">
 </p>
 
 
