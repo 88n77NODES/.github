@@ -11,9 +11,17 @@
 </p>
 
 <p align="center">
+  <!-- Профіль -->
   <img src="https://github-readme-stats.vercel.app/api?username=88n77&show_icons=true&theme=radical&hide_border=true" width="48%">
-  <img src="https://img.shields.io/badge/Org%20Stars-$(curl%20-s%20https://api.github.com/orgs/88n77NODES%20|%20jq%20-r%20'.public_repos')-blue?style=for-the-badge" width="48%">
+  <!-- Організація: динамічні бейджі -->
+  <a href="https://github.com/88n77NODES"><img src="https://img.shields.io/github/stars/88n77NODES?label=Org%20stars&style=for-the-badge"></a>
+  <a href="https://github.com/orgs/88n77NODES/repositories"><img src="https://img.shields.io/github/orgs/88n77NODES/repo-count?label=Org%20repos&style=for-the-badge"></a>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=88n77&layout=compact&theme=radical&hide_border=true" width="60%">
+</p>
+
 
 
 <p align="center"><b>🧠 Building. Automating. Decentralizing.</b></p>
