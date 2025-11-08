@@ -11,19 +11,14 @@
 </p>
 
 <p align="center">
-  <!-- К-сть публічних репозиторіїв в організації -->
-  <a href="https://github.com/orgs/88n77NODES/repositories">
-    <img src="https://img.shields.io/github/orgs/88n77NODES/repo-count?label=88n77NODES%20Repos&style=for-the-badge">
-  </a>
-  <!-- Зірки по ключових репах організації (додай ще, якщо хочеш) -->
-  <a href="https://github.com/88n77NODES/Elixir-V3">
-    <img src="https://img.shields.io/github/stars/88n77NODES/Elixir-V3?label=Elixir%20V3%20Stars&style=for-the-badge">
-  </a>
-  <a href="https://github.com/88n77NODES/NEXUS">
-    <img src="https://img.shields.io/github/stars/88n77NODES/NEXUS?label=NEXUS%20Stars&style=for-the-badge">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=88n77&show_icons=true&theme=radical&hide_border=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=88n77NODES&show_icons=true&theme=radical&hide_border=true" width="48%">
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=88n77&layout=compact&theme=radical&hide_border=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=88n77NODES&layout=compact&theme=radical&hide_border=true" width="48%">
+</p>
 
 
 <p align="center"><b>🧠 Building. Automating. Decentralizing.</b></p>
